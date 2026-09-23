@@ -1,0 +1,1 @@
+.masked-heading{background-image:var(--masked-image,none);background-position:center;background-size:cover;background-clip:text;-webkit-background-clip:text;color:var(--cream);display:block;will-change:transform,opacity}@media(prefers-reduced-motion:reduce){.masked-heading{opacity:1!important;transform:none!important}}
