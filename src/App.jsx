@@ -130,7 +130,7 @@ function App() {
 
       <FloralSection className="visit" aria-labelledby="visit-title"><div className="visit-image"><img src={s17} alt="Colorful handmade fuzzy-wire bouquet outdoors" /></div><div><p className="eyebrow">Made for your moments</p><h2 id="visit-title">From our little craft table to your special moment.</h2><p>Every bouquet is made with care, from the first fuzzy-wire flower to the final ribbon. Follow us on Facebook and Instagram for new designs and updates.</p><div className="social-links"><a href={facebook} target="_blank" rel="noreferrer">Facebook Messenger <span>↗</span></a><a href={instagram} target="_blank" rel="noreferrer">Instagram <span>↗</span></a></div></div></FloralSection>
     </main>
-    <footer><a className="brand" href="#top"><img src={logo} alt="" /><span>Shanel Crafts <small>PH</small></span></a><p>Handmade with love · Est. 2024 · Cebu</p><a href="#top" className="back-top">Back to top ↑</a></footer>
+    <footer><a className="brand" href="#top"><img src={logo} alt="" /><span>Shanel Crafts <small>PH</small></span></a><p>Handmade with love · Est. 2024 · Cebu</p><a className="maker-credit" href="https://louinaquines.online" target="_blank" rel="noopener noreferrer">Made by Loui Naquines</a><a href="#top" className="back-top">Back to top ↑</a></footer>
   </>;
 }
 
